@@ -11,4 +11,4 @@ Developer Tools: VSCode, Eclipse
 ### Projects:
 [Tracksite](https://github.com/jkhatri23/Tracksite) - A web application that efficiently allows users to manage projects, courses, websites and applications, providing easy access and organization of resources
 
-Developed using Javascript, React, Python, FastAPI, HTML/CSS, MySQL
+Developed using Javascript, React, Python, FastAPI, CSS, MySQL
