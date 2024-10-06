@@ -9,6 +9,6 @@ Technologies: React, Git, FastAPI
 Developer Tools: VSCode, Eclipse
 
 ### Projects:
-[Tracksite](https://github.com/jkhatri23/Tracksite) - A web application that efficiently allows users to manage projects, courses, websites and applications, providing easy access and organization of resources
+[Tracksite](https://github.com/jkhatri23/Tracksite) - A bookmark management web application that efficiently allows users to manage projects, courses, websites and applications, providing easy access and organization of resources
 
 Developed using Javascript, React, Python, FastAPI, CSS, MySQL
