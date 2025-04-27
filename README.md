@@ -1,4 +1,4 @@
-# Jordan Khatri
+# Jordan Amarr Khatri
  First Year Systems Design Engineering Student at the **University of Waterloo**
 
 ## Skills:
