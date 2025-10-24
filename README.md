@@ -1,6 +1,8 @@
 # Jordan Amarr Khatri
  Second Year Systems Design Engineering Student at the **University of Waterloo**
 
+ SWE Intern @ **Ford Pro**
+
 ## Skills:
 Languages: JavaScript, HTML/CSS, C++, Java, Python, MATLAB, SQL (MYSQL), Typescript
 
