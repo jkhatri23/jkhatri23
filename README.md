@@ -1,14 +1,14 @@
 # Jordan Amarr Khatri
  Second Year Systems Design Engineering Student at the **University of Waterloo**
 
- SWE Intern @ **Ford Pro**
+ Engineering @ **Ford Pro**
 
 ## Skills:
 Languages: JavaScript, HTML/CSS, C++, Java, Python, MATLAB, SQL (MYSQL), Typescript
 
-Technologies: React, Node.js, FastAPI, Electron.js, Next.js, React Native, Expo, Express.js, Django, Springboot
+Frameworks and Libraries: React, FastAPI, Spring Boot, Next.js, Express.js, Pandas, Numpy, Scikit-learn, Playwright
 
-Developer Tools: Git, Figma, Docker, Google Cloud Platform, AWS, Datadog, Maven, Tekton
+Developer Tools and Platforms: VSCode, Git, Figma, Docker, GCP, AWS, Datadog, Maven, Tekton, Jira, Vercel
 
 ### Projects:
 [Tracksite](https://github.com/jkhatri23/Tracksite) - A bookmark management web application that efficiently allows users to manage projects, courses, websites and applications, providing easy access and organization of resources
