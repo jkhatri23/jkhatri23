@@ -11,8 +11,11 @@ Frameworks and Libraries: React, FastAPI, Spring Boot, Next.js, Express.js, Pand
 Developer Tools and Platforms: VSCode, Git, Figma, Docker, GCP, AWS, Datadog, Maven, Tekton, Jira, Vercel
 
 ### Projects:
-[Tracksite](https://github.com/jkhatri23/Tracksite) - A bookmark management web application that efficiently allows users to manage projects, courses, websites and applications, providing easy access and organization of resources
+
+[Valudex](https://github.com/jkhatri23/Valuedex) - A Pokemon card value predictor web application
 
 [J.A.R.V.I.S.](https://github.com/jkhatri23/J.A.R.V.I.S.) - An AI Butler that acts as a virtual assistant
 
 [BeWell](https://github.com/jkhatri23/BeWell) - A mobile app that promotes mental wellness by helping users take small, meaningful steps each day.
+
+[Tracksite](https://github.com/jkhatri23/Tracksite) - A bookmark management web application 
