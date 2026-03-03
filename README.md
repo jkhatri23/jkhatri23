@@ -12,7 +12,7 @@ Developer Tools and Platforms: VSCode, Git, Figma, Docker, GCP, AWS, Datadog, Ma
 
 ### Projects:
 
-[Valudex](https://github.com/jkhatri23/Valuedex) - A Pokemon card value predictor web application
+[Valuedex](https://github.com/jkhatri23/Valuedex) - A Pokemon card value predictor web application
 
 [J.A.R.V.I.S.](https://github.com/jkhatri23/J.A.R.V.I.S.) - An AI Butler that acts as a virtual assistant
 
