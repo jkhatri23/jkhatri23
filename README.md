@@ -18,4 +18,3 @@ Developer Tools and Platforms: VSCode, Git, Figma, Docker, GCP, AWS, Datadog, Ma
 
 [BeWell](https://github.com/jkhatri23/BeWell) - A mobile app that promotes mental wellness by helping users take small, meaningful steps each day.
 
-[Tracksite](https://github.com/jkhatri23/Tracksite) - A bookmark management web application 
