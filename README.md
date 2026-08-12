@@ -12,6 +12,8 @@ Developer Tools and Platforms: VSCode, Git, Figma, Docker, GCP, AWS, Datadog, Ma
 
 ### Projects:
 
+[Sonar](https://github.com/JKLTCreations/ramp-sonar) - An agent that searches for wasted spending in vendor bills, finalist @ ramp builder cup
+
 [Consensus](https://github.com/JKLTCreations/consensus) - A multi AI agent government policy deliberator, hackathon winner @ anthropic claude code hackathon
 
 [Valuedex](https://github.com/jkhatri23/Valuedex) - A Pokemon card value predictor web application
