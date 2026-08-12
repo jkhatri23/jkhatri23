@@ -1,4 +1,5 @@
-# Jordan Amarr Khatri
+### Jordan Amarr Khatri
+
 syde @ **uwaterloo**
 
 engineering @ **ford pro**
