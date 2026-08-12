@@ -1,5 +1,3 @@
-### Jordan Amarr Khatri
-
 syde @ **uwaterloo**
 
 engineering @ **ford pro**
