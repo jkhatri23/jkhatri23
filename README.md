@@ -1,6 +1,6 @@
 syde @ **uwaterloo**
 
-engineering @ **ford pro**
+prev: swe @ **ford pro**
 
 https://www.jordankhatri.me/
 
